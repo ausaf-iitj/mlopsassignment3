@@ -1,0 +1,41 @@
+_wandb:
+    value:
+        cli_version: 0.27.2
+        e:
+            pcpshpzbuj6jx4xmyenk1fy8ij2lqbl8:
+                cpu_count: 6
+                cpu_count_logical: 12
+                cudaVersion: "13.1"
+                disk:
+                    /:
+                        total: "1081101176832"
+                        used: "12701806592"
+                email: ausaf.ahmad.iitj@gmail.com
+                executable: /home/ausafahmad/mlops_venv/bin/python3
+                gpu: NVIDIA GeForce RTX 2060
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Turing
+                      memoryTotal: "6442450944"
+                      name: NVIDIA GeForce RTX 2060
+                      uuid: GPU-c8e35392-3f1c-d731-d4f3-9a8ffd37aa21
+                host: ausaf-pc
+                memory:
+                    total: "8278724608"
+                os: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.42
+                program: <python with no main file>
+                python: CPython 3.14.3
+                root: /mnt/f/MTechAI_ML_IITJ/Semester2/ML Ops/Assignments/Assignment_3/work/MLOps_Assignment3V1
+                startedAt: "2026-06-08T21:54:14.315643Z"
+                writerId: pcpshpzbuj6jx4xmyenk1fy8ij2lqbl8
+        m: []
+        python_version: 3.14.3
+        t:
+            "3":
+                - 2
+            "4": 3.14.3
+            "5": 0.27.2
+            "8":
+                - 2
+            "12": 0.27.2
+            "13": linux-x86_64

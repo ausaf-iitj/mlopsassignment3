@@ -1,0 +1,33 @@
+{
+  "os": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.42",
+  "python": "CPython 3.14.3",
+  "startedAt": "2026-06-10T21:23:59.748171Z",
+  "program": "<python with no main file>",
+  "email": "ausaf.ahmad.iitj@gmail.com",
+  "root": "/mnt/f/MTechAI_ML_IITJ/Semester2/ML Ops/Assignments/Assignment_3/work/MLOps_Assignment3V1",
+  "host": "ausaf-pc",
+  "executable": "/home/ausafahmad/mlops_venv/bin/python3",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 2060",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "11854979072"
+    }
+  },
+  "memory": {
+    "total": "8278716416"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 2060",
+      "memoryTotal": "6442450944",
+      "architecture": "Turing",
+      "uuid": "GPU-c8e35392-3f1c-d731-d4f3-9a8ffd37aa21"
+    }
+  ],
+  "cudaVersion": "13.1",
+  "writerId": "cs9kom6j8esyapf77da7bfcoqphc0v1z"
+}
