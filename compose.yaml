@@ -1,0 +1,6 @@
+services:
+  mlopsassignment3v1:
+    image: mlopsassignment3v1
+    build:
+      context: .
+      dockerfile: ./Dockerfile
